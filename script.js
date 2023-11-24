@@ -3,5 +3,5 @@ var animation = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'data.json'
+    path: 'https://github.com/lukelike1001/probable-garbanzo/blob/main/data.json'
 })
